@@ -27,7 +27,7 @@ Custom **NeoForge 1.21.1** mods built for the *bertie* modpack. Public repos are
 ## 🔗 Ports
 
 - [Nekos-Enchanted-Books](https://github.com/bertie-mc/Nekos-Enchanted-Books) — public fork of Infernal Studios' mod; the NeoForge 1.21.1 port lives on the `neoforge` branch
-- **explosive-enhancement** — NeoForge reimplementation of *Explosive Enhancement* (Superkat32); private, pending upstream license review
+- [explosive-enhancement](https://github.com/bertie-mc/explosive-enhancement) — NeoForge port of *Explosive Enhancement* by Superkat32 (MIT) ![Build](https://github.com/bertie-mc/explosive-enhancement/actions/workflows/build.yml/badge.svg)
 
 ---
 
