@@ -1,6 +1,6 @@
 # bertie-mc
 
-Custom **NeoForge 1.21.1** mods built for the *bertie* modpack. Public repos are MIT-licensed; each has CI that builds on every push and publishes a **GitHub Release** with the JAR on version tags (`v*`).
+Custom **NeoForge 1.21.1** mods built for the *bertie* modpack. Most repos are MIT-licensed (the [Nekos-Enchanted-Books](https://github.com/bertie-mc/Nekos-Enchanted-Books) fork is an attributed fork of an unlicensed upstream); each has CI that builds on every push and publishes a **GitHub Release** with the JAR on version tags (`v*`).
 
 ## 🧩 Content mods
 
